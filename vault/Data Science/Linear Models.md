@@ -30,7 +30,7 @@ Linear models often rely on the following assumptions:
    - The relationship between features and the target is linear.
 2. **Independence**:
    - Observations are independent of each other.
-3. **Homoscedasticity**:
+3. **[[Homoscedasticity]]**:
    - Constant variance of errors.
 4. **Normality**:
    - Errors are normally distributed (mostly for regression).
@@ -47,11 +47,11 @@ Linear models often rely on the following assumptions:
 - Used for binary and multi-class [[Classification]].
 - Uses the [[Sigmoid Function]] to map predictions to probabilities.
 
-### **3. Ridge Regression**
+### **3. [[Ridge Regression]]**
 - Adds $L2$ regularization to reduce overfitting.
 - Penalizes large coefficients: $$\lambda \sum_{i=1}^p \beta_i^2$$.
 
-### **4. Lasso Regression**
+### **4. [[Lasso Regression]]**
 - Adds $L1$ regularization for feature selection.
 - Shrinks irrelevant coefficients to zero: $$\lambda \sum_{i=1}^p |\beta_i|$$.
 

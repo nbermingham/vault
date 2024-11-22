@@ -1,5 +1,9 @@
-# Cross-Entropy Loss
-
+---
+aliases:
+  - Log-Loss
+  - Logarithmic Loss
+  - Logistic Loss
+---
 ## Overview
 **Cross-Entropy Loss** is a widely used loss function in [[Machine Learning]] and [[Deep Learning]], especially for classification tasks. It measures the difference between two probability distributions: the predicted probability distribution from the model and the true labels (encoded as one-hot vectors).
 

@@ -1,3 +1,7 @@
+---
+aliases:
+  - Activation Function
+---
 ## Overview
 **Activation Functions** are mathematical functions applied to the outputs of [[Neural Networks]] at each layer. They introduce non-linearity into the network, allowing it to model complex patterns and solve problems beyond simple linear relationships. Without activation functions, a neural network would behave like a linear model, regardless of its depth.
 

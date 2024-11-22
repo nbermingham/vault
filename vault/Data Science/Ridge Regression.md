@@ -1,3 +1,8 @@
+---
+aliases:
+  - L2 Regularized Regression
+  - L2 Regularization
+---
 ## Overview
 
 **Ridge Regression**, also known as **L2 Regularized Regression**, is an extension of [[Linear Regression]] that introduces a regularization term to reduce overfitting. It adds a penalty proportional to the square of the magnitude of the coefficients to the loss function, discouraging overly large coefficients and improving generalization.
@@ -25,10 +30,10 @@ The regularization term $\lambda \sum_{j=1}^p \beta_j^2$ shrinks the coefficient
 ### Regularization Parameter ($\lambda$)
 - **Small $\lambda$**:
   - Minimal regularization, closer to [[Linear Regression]].
-  - May result in overfitting.
+  - May result in [[Overfitting]].
 - **Large $\lambda$**:
   - Strong regularization, shrinks coefficients more.
-  - May lead to underfitting.
+  - May lead to [[Underfitting]].
 
 Selecting an optimal $\lambda$ is critical and is typically done using techniques like [[Cross-Validation]].
 
@@ -108,7 +113,7 @@ The regularization term penalizes large coefficients, resulting in smaller value
 
 - [[Linear Regression]]: Ridge Regression builds upon Linear Regression.
 - [[Lasso Regression]]: An alternative that performs feature selection.
-- [[Elastic Net]]: Combines the strengths of Ridge and Lasso Regression.
+- [[Elastic Net]]: Combines the strengths of Ridge and [[Lasso Regression]].
 - [[Regularization]]: Broader concept for preventing overfitting in machine learning models.
 - [[Cross-Validation]]: Used for tuning the regularization parameter $\lambda$.
 

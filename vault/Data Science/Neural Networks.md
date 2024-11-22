@@ -74,7 +74,7 @@ Neural Networks are a subset of [[Machine Learning]] inspired by the structure a
 ## Advanced Topics
 - [[Backpropagation]]: Algorithm for updating weights during training.
 - [[Transfer Learning]]: Reusing pre-trained networks for new tasks.
-- [[Regularization]]: Techniques to prevent overfitting (e.g., dropout, L2 regularization).
+- [[Regularization]]: Techniques to prevent overfitting (e.g., dropout, [[Ridge Regression|L2 regularization]]).
 - [[Hyperparameter Tuning]]: Optimizing learning rate, batch size, etc.
 - [[Attention Mechanisms]]: Key innovation in Transformer models.
 - [[Explainability in AI]]: Tools like SHAP and LIME for interpreting predictions.

@@ -1,5 +1,5 @@
 ## Overview
-**Differentiation** is a fundamental concept in [[Calculus]] that measures how a function changes as its input changes. It computes the **derivative**, which represents the rate of change or slope of the function at any given point. Differentiation is widely used in [[Mathematics]], [[Physics]], and [[Machine Learning]] for tasks such as optimization, motion analysis, and curve fitting.
+**Differentiation** is a fundamental concept in [[Calculus]] that measures how a function changes as its input changes. It computes the **derivative**, which represents the rate of change or slope of the function at any given point. Differentiation is widely used in [[Mathematics for Data Science|Mathematics]], [[Physics]], and [[Machine Learning]] for tasks such as optimization, motion analysis, and curve fitting.
 
 ---
 
@@ -15,23 +15,23 @@ Where:
 - $\Delta x$: A small change in $x$.
 
 ### **2. Rules of Differentiation**
-- **Power Rule**:
+- **[[Power Rule]]**:
   $$
   \frac{d}{dx} \, x^n = n x^{n-1}
   $$
-- **Sum Rule**:
+- **[[Sum Rule]]**:
   $$
   \frac{d}{dx} [f(x) + g(x)] = f'(x) + g'(x)
   $$
-- **Product Rule**:
+- **[[Product Rule]]**:
   $$
   \frac{d}{dx} [f(x) g(x)] = f'(x) g(x) + f(x) g'(x)
   $$
-- **Quotient Rule**:
+- **[[Quotient Rule]]**:
   $$
   \frac{d}{dx} \left[\frac{f(x)}{g(x)}\right] = \frac{f'(x) g(x) - f(x) g'(x)}{g(x)^2}
   $$
-- **Chain Rule**:
+- **[[Chain Rule]]**:
   $$
   \frac{d}{dx} \, f(g(x)) = f'(g(x)) \cdot g'(x)
   $$
@@ -43,7 +43,7 @@ Where:
   $$
   Measures the rate of change of the first derivative (e.g., acceleration in physics).
 
-### **4. Partial Differentiation**
+### **4. [[Partial Derivatives|partial differentiation]]**
 - For multivariable functions, partial derivatives compute the rate of change with respect to one variable, holding others constant. Example:
   $$
   \frac{\partial f}{\partial x}

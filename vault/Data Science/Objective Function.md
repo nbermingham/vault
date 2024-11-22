@@ -55,7 +55,7 @@ The **Objective Function** is a mathematical expression that defines the goal of
 3. **Hinge Loss**:
    - Used for binary [[Classification]] in Support Vector Machines (SVMs).
 4. **Regularized Loss Functions**:
-   - Combine the primary objective function with a penalty term to prevent overfitting (e.g., Lasso or Ridge Regression).
+   - Combine the primary objective function with a penalty term to prevent overfitting (e.g., Lasso or [[Ridge Regression]]).
 
 ---
 

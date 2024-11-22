@@ -1,7 +1,7 @@
 ## Overview
 **Fine-Tuning** is a process in [[Machine Learning]] and [[Deep Learning]] where a pretrained model is adapted to a specific downstream task by training it further on task-specific data. This approach leverages the general knowledge learned during pretraining (e.g., on large corpora in the case of [[Transformer]] models) and tailors it to solve a particular problem efficiently.
 
-Fine-tuning is widely used in [[Natural Language Processing (NLP)]], [[Computer Vision]], and other domains, with models like [[BERT]], [[RoBERTa]], and [[GPT]] being prime examples of pretrained models fine-tuned for tasks such as [[Text Classification]] or [[Named Entity Recognition (NER)]].
+Fine-tuning is widely used in [[Natural Language Processing]], [[Computer Vision]], and other domains, with models like [[BERT]], [[RoBERTa]], and [[GPT]] being prime examples of pretrained models fine-tuned for tasks such as [[Text Classification]] or [[Named Entity Recognition (NER)]].
 
 ---
 

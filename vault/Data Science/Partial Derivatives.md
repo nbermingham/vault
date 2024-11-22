@@ -1,3 +1,7 @@
+---
+aliases:
+  - Partial Differentiation
+---
 ## Overview
 **Partial Derivatives** are a fundamental concept in [[Calculus]] used to measure the rate of change of a multivariable function with respect to one variable, while keeping all other variables constant. They are widely used in [[Machine Learning]] and [[Deep Learning]] for optimization, especially in algorithms like [[Gradient Descent]].
 
@@ -18,7 +22,7 @@ $$
 $$
 This calculates the instantaneous rate of change in $f$ as $x_i$ varies, keeping all other variables constant.
 
-### **2. Gradient**
+### **2. [[Gradients|Gradient]]**
 The gradient is a vector of all partial derivatives for a function $f$:
 $$
 \nabla f = \left[ \frac{\partial f}{\partial x_1}, \frac{\partial f}{\partial x_2}, \dots, \frac{\partial f}{\partial x_n} \right]

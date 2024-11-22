@@ -1,6 +1,7 @@
 ---
 aliases:
   - Natural Language Processing (NLP)
+  - NLP
 ---
 ## Overview
 Natural Language Processing (NLP) is a field of Artificial Intelligence (AI) that focuses on enabling computers to understand, interpret, and generate human language. It combines computational linguistics, machine learning, and deep learning to work with text and speech data.

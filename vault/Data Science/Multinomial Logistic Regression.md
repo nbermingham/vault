@@ -92,7 +92,7 @@ $$
 ## Regularization
 - Regularization helps prevent overfitting by penalizing large coefficients:
   - **L1 Regularization**: Encourages sparsity (some coefficients become zero).
-  - **L2 Regularization**: Shrinks coefficients toward zero without making them sparse.
+  - **[[Ridge Regression|L2 Regularization]]**: Shrinks coefficients toward zero without making them sparse.
 
 ---
 

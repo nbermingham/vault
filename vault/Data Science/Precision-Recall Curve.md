@@ -1,4 +1,5 @@
 ## Overview
+
 A **Precision-Recall Curve** is a graphical representation of the trade-off between [[Precision]] and [[Recall]] across different decision thresholds in a [[Classification]] model. It is particularly useful for evaluating models on imbalanced datasets, where the positive class is rare, and metrics like [[Accuracy]] can be misleading.
 
 The curve plots **Precision** on the y-axis and **Recall** on the x-axis, showing how the two metrics change as the classification threshold is varied.
@@ -65,6 +66,7 @@ The curve plots **Precision** on the y-axis and **Recall** on the x-axis, showin
 
 ### Binary Classification Example
 Suppose a model predicts probabilities for a binary classification task. By varying the threshold, Precision and Recall change as follows:
+
 | **Threshold** | **Precision** | **Recall** |
 |---------------|---------------|------------|
 | 0.9           | 0.95          | 0.50       |

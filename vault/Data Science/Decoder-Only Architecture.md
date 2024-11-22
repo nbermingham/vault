@@ -1,5 +1,5 @@
 ## Overview
-**Decoder-Only Architecture** is a [[Transformer]]-based design primarily used in [[Natural Language Processing (NLP)]] tasks for [[Text Generation]]. Unlike the standard encoder-decoder structure, the decoder-only architecture eliminates the encoder and relies solely on an autoregressive decoder. This design predicts the next token in a sequence by considering only the tokens that precede it, making it ideal for tasks such as [[Language Modeling]], [[Machine Translation]], and conversational AI.
+**Decoder-Only Architecture** is a [[Transformer]]-based design primarily used in [[Natural Language Processing]] tasks for [[Text Generation]]. Unlike the standard encoder-decoder structure, the decoder-only architecture eliminates the encoder and relies solely on an autoregressive decoder. This design predicts the next token in a sequence by considering only the tokens that precede it, making it ideal for tasks such as [[Language Modeling]], [[Machine Translation]], and conversational AI.
 
 Prominent models like [[GPT]] and [[GPT-3]] use decoder-only architectures to generate coherent and contextually relevant text.
 

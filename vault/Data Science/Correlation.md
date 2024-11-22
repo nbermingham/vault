@@ -1,3 +1,9 @@
+---
+aliases:
+  - Correlation Coefficient
+  - Variable Correlation
+  - variable correlation
+---
 ## Overview
 **Correlation** is a statistical measure that quantifies the relationship between two variables. It indicates whether an increase (or decrease) in one variable is associated with an increase (or decrease) in another variable. Correlation plays a key role in [[Feature Engineering]], [[Feature Selection]], and understanding data relationships in [[Machine Learning]] and [[Data Analysis]].
 
@@ -41,7 +47,7 @@ The value of correlation lies between $-1$ and $1$, where:
    - Correlation matrices are used to visualize relationships between multiple features.
 
 4. **[[Time Series Analysis]]**:
-   - Autocorrelation identifies patterns or seasonality in time series data.
+   - Autocorrelation identifies patterns or [[Seasonality]] in time series data.
 
 ---
 

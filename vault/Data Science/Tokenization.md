@@ -1,5 +1,5 @@
 ## Overview
-**Tokenization** is the process of breaking down text into smaller units called tokens, which can be words, subwords, or characters. It is one of the first steps in [[Natural Language Processing (NLP)]] pipelines, enabling models to process and analyze textual data. Tokenization is crucial for tasks like [[Text Classification]], [[Sentiment Analysis]], [[Named Entity Recognition (NER)]], and [[Machine Translation]].
+**Tokenization** is the process of breaking down text into smaller units called tokens, which can be words, subwords, or characters. It is one of the first steps in [[Natural Language Processing]] pipelines, enabling models to process and analyze textual data. Tokenization is crucial for tasks like [[Text Classification]], [[Sentiment Analysis]], [[Named Entity Recognition (NER)]], and [[Machine Translation]].
 
 Modern tokenization techniques, such as subword tokenization used in models like [[BERT]] and [[GPT]], optimize for both efficiency and linguistic representation.
 

@@ -1,3 +1,9 @@
+---
+aliases:
+  - SVMs
+  - SVM
+  - Support Vector Machine
+---
 ## Overview
 **Support Vector Machines (SVMs)** are supervised machine learning models used for [[Classification]] and [[Regression]] tasks. They are particularly effective for binary classification problems. SVMs work by finding the hyperplane that best separates data points of different classes in a high-dimensional space, maximizing the **margin** between the classes.
 

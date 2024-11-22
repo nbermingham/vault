@@ -91,7 +91,7 @@ Logistic Regression is a supervised learning algorithm used for binary and multi
 ---
 
 ## Common Challenges
-- **[[Multicollinearity]]**: Highly correlated features can lead to unstable coefficients. Address this with [[feature selection]] or [[regularization]].
+- **[[Multicollinearity]]**: Highly correlated features can lead to unstable coefficients. Address this with [[Feature Selection]] or [[Regularization]].
 - **[[Overfitting]]**: Use regularization techniques like L1 (Lasso) or L2 (Ridge) to avoid overfitting.
 - **[[Class Imbalance]]**: If one class dominates, consider resampling methods or adjusting class weights.
 

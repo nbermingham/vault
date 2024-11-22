@@ -13,7 +13,7 @@ Dimensionality reduction techniques are broadly categorized into **linear** and 
 ### Types of Dimensionality Reduction
 1. **[[Feature Selection]]**:
    - Retains only the most relevant features (e.g., based on statistical measures or importance scores).
-   - Examples: Recursive Feature Elimination (RFE), Lasso Regression.
+   - Examples: Recursive Feature Elimination (RFE), [[Lasso Regression]].
 2. **[[Feature Extraction]]**:
    - Transforms the data into a lower-dimensional space by combining or compressing features.
    - Examples: [[Principal Component Analysis]], [[t-SNE]], [[UMAP]].

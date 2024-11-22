@@ -25,7 +25,7 @@
    - Models tend to predict the majority class more often, ignoring the minority class.
 
 2. **Poor Generalization**:
-   - Class imbalance can lead to [[underfitting]] or [[Overfitting]], particularly for the minority class.
+   - Class imbalance can lead to [[Underfitting]] or [[Overfitting]], particularly for the minority class.
 
 3. **Evaluation Metrics**:
    - Common metrics like [[Accuracy]] fail to reflect the model's performance on the minority class.

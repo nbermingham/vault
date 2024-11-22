@@ -1,5 +1,5 @@
 ## Overview
-**RoBERTa** (A Robustly Optimized BERT Pretraining Approach) is an improved version of [[BERT]], designed to optimize its pretraining process for better performance on [[Natural Language Processing (NLP)]] tasks. It modifies BERT’s training strategies, such as removing the next sentence prediction objective, increasing training data, and adopting larger batch sizes, resulting in state-of-the-art performance on many NLP benchmarks.
+**RoBERTa** (A Robustly Optimized BERT Pretraining Approach) is an improved version of [[BERT]], designed to optimize its pretraining process for better performance on [[Natural Language Processing]] tasks. It modifies BERT’s training strategies, such as removing the next sentence prediction objective, increasing training data, and adopting larger batch sizes, resulting in state-of-the-art performance on many NLP benchmarks.
 
 RoBERTa is a [[Transformer]]-based model that uses [[Masked Language Modeling (MLM)]] as its primary pretraining objective.
 

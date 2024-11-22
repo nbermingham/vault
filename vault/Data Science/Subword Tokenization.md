@@ -1,5 +1,5 @@
 ## Overview
-**Subword Tokenization** is a modern tokenization technique used in [[Natural Language Processing (NLP)]] that splits words into smaller meaningful units, or subwords, to handle rare and unknown words effectively. This method bridges the gap between [[Word Tokenization]] and [[Character Tokenization]], providing a balance between vocabulary size and sequence length.
+**Subword Tokenization** is a modern tokenization technique used in [[Natural Language Processing]] that splits words into smaller meaningful units, or subwords, to handle rare and unknown words effectively. This method bridges the gap between [[Word Tokenization]] and [[Character Tokenization]], providing a balance between vocabulary size and sequence length.
 
 Subword tokenization is commonly used in state-of-the-art models like [[BERT]], [[GPT]], and [[T5]], where it plays a critical role in efficiently representing textual data.
 

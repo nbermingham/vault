@@ -1,3 +1,8 @@
+---
+aliases:
+  - LSTM
+  - LSTMs
+---
 ![[Screenshot 2024-11-18 at 12.01.23 PM.png]]
 
 # LSTMs (Long Short-Term Memory)

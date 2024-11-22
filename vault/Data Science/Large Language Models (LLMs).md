@@ -5,7 +5,7 @@ aliases:
 ---
 
 ## Overview
-**Large Language Models (LLMs)** are [[Natural Language Processing (NLP)]] models trained on massive amounts of text data to understand, generate, and manipulate human language. These models, built on architectures like the [[Transformer]], use billions or even trillions of parameters to perform a wide range of tasks, from [[Text Generation]] and [[Machine Translation]] to complex reasoning and [[Question Answering]].
+**Large Language Models (LLMs)** are [[Natural Language Processing]] models trained on massive amounts of text data to understand, generate, and manipulate human language. These models, built on architectures like the [[Transformer]], use billions or even trillions of parameters to perform a wide range of tasks, from [[Text Generation]] and [[Machine Translation]] to complex reasoning and [[Question Answering]].
 
 LLMs are a cornerstone of modern AI, with prominent examples including [[GPT]], [[BERT]], [[T5]], and [[PaLM]].
 

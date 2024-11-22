@@ -1,5 +1,5 @@
 ## Overview
-**Byte-Pair Encoding (BPE)** is a subword tokenization technique used in [[Natural Language Processing (NLP)]] to break text into smaller units for efficient representation. It combines the most frequent pairs of characters or subwords iteratively to create a vocabulary of subword units. BPE is widely used in [[Large Language Models (LLMs)]] like [[GPT]] and [[RoBERTa]].
+**Byte-Pair Encoding (BPE)** is a subword tokenization technique used in [[Natural Language Processing]] to break text into smaller units for efficient representation. It combines the most frequent pairs of characters or subwords iteratively to create a vocabulary of subword units. BPE is widely used in [[Large Language Models (LLMs)]] like [[GPT]] and [[RoBERTa]].
 
 BPE addresses the limitations of [[Word Tokenization]] and [[Character Tokenization]] by balancing vocabulary size and sequence length, making it suitable for handling rare and unknown words effectively.
 

@@ -1,5 +1,5 @@
 ## Overview
-**Transfer Learning** is a machine learning technique where a model trained on one task or domain is reused for another related task. It allows models to leverage knowledge gained from pretraining on large datasets and apply it to smaller, specific datasets for a downstream task. This approach significantly reduces the time, resources, and data required for training, making it especially valuable in domains like [[Natural Language Processing (NLP)]] and [[Computer Vision]].
+**Transfer Learning** is a machine learning technique where a model trained on one task or domain is reused for another related task. It allows models to leverage knowledge gained from pretraining on large datasets and apply it to smaller, specific datasets for a downstream task. This approach significantly reduces the time, resources, and data required for training, making it especially valuable in domains like [[Natural Language Processing]] and [[Computer Vision]].
 
 Transfer learning underpins the success of [[Fine-Tuning]] and is central to the development of [[Large Language Models (LLMs)]] like [[BERT]] and [[GPT]].
 

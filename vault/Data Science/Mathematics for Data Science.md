@@ -1,3 +1,8 @@
+---
+aliases:
+  - Math
+  - Mathematics
+---
 ## Overview
 Mathematics is the backbone of machine learning. Understanding the underlying concepts in linear algebra, [[Calculus]], probability, and optimization is essential for developing models, understanding algorithms, and solving real-world problems.
 

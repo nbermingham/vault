@@ -1,3 +1,7 @@
+---
+aliases:
+  - Gradient
+---
 ## Overview
 **Gradients** are a vector of first-order partial derivatives that represent the direction and rate of the steepest ascent of a scalar function. In [[Machine Learning]] and [[Deep Learning]], gradients are essential for optimization tasks, such as minimizing loss functions using algorithms like [[Gradient Descent]].
 

@@ -68,6 +68,7 @@ Where:
 
 ### Binary Classification Example
 Confusion matrix:
+
 |                  | Predicted Positive | Predicted Negative |
 |------------------|--------------------|--------------------|
 | **Actual Positive** | $TP = 50$          | $FN = 10$          |
